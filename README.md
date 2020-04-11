@@ -9,11 +9,12 @@ Lembrete de comandos úteis do git
 - git status
 
 ### Comandos para subir para o git (sincronização PC >> Github)
-'''
+```
 git add nome_do_item 
- git commit -m "Comentario_colocado_indicando_a_mudança"
- git push origin master
-'''
+git commit -m "comentário para esta commit indicando a mundança"
+git push origin master
+
+```
 ### Comando para puxar do git (sincronização Github >> PC)
 - git pull origin master
 
