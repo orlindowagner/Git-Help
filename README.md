@@ -10,7 +10,6 @@ Lembrete de comandos úteis do git
 - git push origin master  (para empurrar o conteudo da pasta para o github)
 
 ### Comandos de sincronização
-- git status
 - git pull origin master
 
 ## Comandos básicos para usar o git
