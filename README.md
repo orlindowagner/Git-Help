@@ -3,13 +3,18 @@ Lembrete de comandos úteis do git
 
 
 ## Para diretório já presente no computador
+
+### Localizar e verificar mudanças
 - cd ./nome_do_diretorio
 - git status
-- git add FILE.xxx  (para adicionar somente o FILE.xxx)
-- git commit -m "Comentario_colocado_indicando_a_mudança"
-- git push origin master  (para empurrar o conteudo da pasta para o github)
 
-### Comandos de sincronização
+### Comandos para subir para o git (sincronização PC >> Github)
+'''
+git add nome_do_item 
+ git commit -m "Comentario_colocado_indicando_a_mudança"
+ git push origin master
+'''
+### Comando para puxar do git (sincronização Github >> PC)
 - git pull origin master
 
 ## Comandos básicos para usar o git
