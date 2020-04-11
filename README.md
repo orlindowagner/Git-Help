@@ -1,16 +1,6 @@
 # Git-Help
 Lembrete de comandos úteis do git
 
-## Comandos básicos para usar o git
-
-## Para iniciar do zero
-- git clone "url_copiado_do_github"
-ou
-- Fazer o download e executar: git init (quando estiver dentro da pasta)
-
-### Comandos de configuração de usuário
-- git config --global user.name "user_name"
-- git config --global user.email "user@email"
 
 ## Para diretório já presente no computador
 - cd ./nome_do_diretorio
@@ -24,6 +14,22 @@ ou
 ### Comandos de sincronização
 - git status  (muito útil para verificar se hove mudança em algum arquivo no computador)
 - git pull origin master
+
+## Comandos básicos para usar o git
+
+## Para iniciar do zero
+- git clone "url_copiado_do_github"
+ou
+- Fazer o download e executar: git init (quando estiver dentro da pasta)
+
+### Comandos de configuração de usuário
+- git config --global user.name "user_name"
+- git config --global user.email "user@email"
+
+
+
+
+
 
 ## Outros comamndos úteis
 ### Comandos para saídas
